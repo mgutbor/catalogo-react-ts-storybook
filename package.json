@@ -61,7 +61,6 @@
     ]
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@{USER_NAME}"
-  },
-  "name": "@{mgutbor}/{catalogo-react-ts-storybook}"
+    "registry": "https://npm.pkg.github.com/@mgutbor/catalogo-react-ts-storybook"
+  }
 }
