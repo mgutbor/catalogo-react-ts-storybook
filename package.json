@@ -1,5 +1,5 @@
 {
-  "name": "catalogo-react-ts-storybook",
+  "name": "@mgutbor/catalogo-react-ts-storybook",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.cjs.js",
@@ -64,7 +64,8 @@
       "npm run test"
     ]
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgutbor/catalogo-react-ts-storybook.git"
   }
 }
